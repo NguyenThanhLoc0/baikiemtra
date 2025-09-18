@@ -159,26 +159,26 @@
             // mnuTraPhieuMuon
             // 
             this.mnuTraPhieuMuon.Name = "mnuTraPhieuMuon";
-            this.mnuTraPhieuMuon.Size = new System.Drawing.Size(224, 28);
+            this.mnuTraPhieuMuon.Size = new System.Drawing.Size(210, 28);
             this.mnuTraPhieuMuon.Text = "phiếu mượn";
             this.mnuTraPhieuMuon.Click += new System.EventHandler(this.mnuTraPhieuMuon_Click);
             // 
             // mnuTraPhieuTra
             // 
             this.mnuTraPhieuTra.Name = "mnuTraPhieuTra";
-            this.mnuTraPhieuTra.Size = new System.Drawing.Size(224, 28);
+            this.mnuTraPhieuTra.Size = new System.Drawing.Size(210, 28);
             this.mnuTraPhieuTra.Text = "phiếu trả";
             // 
             // mnuTraPhieuDoc
             // 
             this.mnuTraPhieuDoc.Name = "mnuTraPhieuDoc";
-            this.mnuTraPhieuDoc.Size = new System.Drawing.Size(224, 28);
+            this.mnuTraPhieuDoc.Size = new System.Drawing.Size(210, 28);
             this.mnuTraPhieuDoc.Text = "phiếu đọc";
             // 
             // đăngKýPhiếuToolStripMenuItem1
             // 
             this.đăngKýPhiếuToolStripMenuItem1.Name = "đăngKýPhiếuToolStripMenuItem1";
-            this.đăngKýPhiếuToolStripMenuItem1.Size = new System.Drawing.Size(224, 28);
+            this.đăngKýPhiếuToolStripMenuItem1.Size = new System.Drawing.Size(210, 28);
             this.đăngKýPhiếuToolStripMenuItem1.Text = "đăng ký phiếu";
             // 
             // phiếuToolStripMenuItem

@@ -8,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Excel = Microsoft.Office.Interop.Excel;
+
 
 namespace Xaydungquanlythuvien
 {
@@ -35,6 +37,7 @@ namespace Xaydungquanlythuvien
                 DataTable dt = new DataTable();
                 adapter.Fill(dt);
                 dgvTraPhieuMuon.DataSource = dt;
+                dgvTraPhieuMuon.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
                 c.disconnect();
             }
             catch (Exception ex)
@@ -173,7 +176,51 @@ namespace Xaydungquanlythuvien
 
         private void btnXuatExcel_Click(object sender, EventArgs e)
         {
+            try
+            {
+                // Tạo đối tượng Excel
+                Excel.Application excelApp = new Excel.Application();
+                excelApp.Application.Workbooks.Add(Type.Missing);
 
+                // Xuất tiêu đề cột
+                for (int i = 0; i < dgvTraPhieuMuon.Columns.Count; i++)
+                {
+                    excelApp.Cells[1, i + 1] = dgvTraPhieuMuon.Columns[i].HeaderText;
+                }
+
+                // Xuất dữ liệu từng dòng
+                for (int i = 0; i < dgvTraPhieuMuon.Rows.Count; i++)
+                {
+                    for (int j = 0; j < dgvTraPhieuMuon.Columns.Count; j++)
+                    {
+                        if (dgvTraPhieuMuon.Rows[i].Cells[j].Value != null)
+                        {
+                            excelApp.Cells[i + 2, j + 1] = dgvTraPhieuMuon.Rows[i].Cells[j].Value.ToString();
+                        }
+                    }
+                }
+
+                // Tự động căn chỉnh cột
+                excelApp.Columns.AutoFit();
+
+                // Hiện Excel
+                excelApp.Visible = true;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi khi xuất Excel: " + ex.Message);
+            }
+        }
+
+        private void dgvTraPhieuMuon_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
+        {
+            DataGridViewRow row = dgvTraPhieuMuon.Rows[e.RowIndex];
+            txtMaPhieuMuon.Text = row.Cells["Mã sách"].Value.ToString();
+            txtMaDocGia.Text = row.Cells["Tên sách"].Value.ToString();
+            txtMaNhanVien.Text = row.Cells["Tác giả"].Value.ToString(); // Hiển thị TenTacGia từ join
+            dateNgayMuon.Text = row.Cells["Thể loại"].Value.ToString(); // Hiển thị TenTheLoai từ join
+            dateNgayTra.Text = row.Cells["Số lượng"].Value.ToString();
+            txtGhiChu.Text = row.Cells["Ghi chú"].Value.ToString();
         }
     }
 }

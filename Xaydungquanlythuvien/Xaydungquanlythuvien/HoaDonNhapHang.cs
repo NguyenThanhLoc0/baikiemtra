@@ -34,6 +34,7 @@ namespace Xaydungquanlythuvien
                 DataTable dt = new DataTable();
                 adapter.Fill(dt);
                 dgvNhapHang.DataSource = dt;
+                dgvNhapHang.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
                 c.disconnect();
             }
             catch (Exception ex)

@@ -36,6 +36,7 @@ namespace Xaydungquanlythuvien
                 DataTable dt = new DataTable();
                 adapter.Fill(dt);
                 dgvPhieuMuon.DataSource = dt;
+                dgvPhieuMuon.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
                 c.disconnect();
             }
             catch (Exception ex)

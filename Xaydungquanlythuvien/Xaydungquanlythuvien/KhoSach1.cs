@@ -31,6 +31,7 @@ namespace Xaydungquanlythuvien
                 DataTable dt = new DataTable();
                 adapter.Fill(dt);
                 dgvKhoSach1.DataSource = dt;
+                dgvKhoSach1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
                 c.disconnect();
             }
             catch (Exception ex)
@@ -223,6 +224,17 @@ namespace Xaydungquanlythuvien
             {
                 MessageBox.Show("Lỗi khi xuất Excel: " + ex.Message);
             }
+        }
+
+        private void dgvKhoSach1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            DataGridViewRow row = dgvKhoSach1.Rows[e.RowIndex];
+            txtMaSach.Text = row.Cells["Mã sách"].Value.ToString();
+            txtTenSach.Text = row.Cells["Tên sách"].Value.ToString();
+            txtTacGia.Text = row.Cells["Tác giả"].Value.ToString(); // Hiển thị TenTacGia từ join
+            txtTheLoai.Text = row.Cells["Thể loại"].Value.ToString(); // Hiển thị TenTheLoai từ join
+            txtSoLuong.Text = row.Cells["Số lượng"].Value.ToString();
+            txtGhiChu.Text = row.Cells["Ghi chú"].Value.ToString();
         }
     }
 }

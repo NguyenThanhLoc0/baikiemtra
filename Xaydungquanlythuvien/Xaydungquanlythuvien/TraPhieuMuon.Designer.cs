@@ -208,6 +208,7 @@
             this.dgvTraPhieuMuon.RowTemplate.Height = 24;
             this.dgvTraPhieuMuon.Size = new System.Drawing.Size(1298, 248);
             this.dgvTraPhieuMuon.TabIndex = 20;
+            this.dgvTraPhieuMuon.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvTraPhieuMuon_CellContentClick_1);
             // 
             // TraPhieuMuon
             // 

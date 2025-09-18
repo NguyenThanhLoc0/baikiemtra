@@ -197,6 +197,7 @@
             this.dgvKhoSach1.RowTemplate.Height = 24;
             this.dgvKhoSach1.Size = new System.Drawing.Size(1296, 259);
             this.dgvKhoSach1.TabIndex = 17;
+            this.dgvKhoSach1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvKhoSach1_CellContentClick);
             // 
             // button1
             // 
