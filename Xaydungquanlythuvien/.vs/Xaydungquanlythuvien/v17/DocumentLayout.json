@@ -3,84 +3,116 @@
   "WorkspaceRootPath": "D:\\bai kiem tra\\Xaydungquanlythuvien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|d:\\bai kiem tra\\xaydungquanlythuvien\\xaydungquanlythuvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\phieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\phieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\traphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\traphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\traphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\traphieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\khosach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\khosach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|d:\\bai kiem tra\\xaydungquanlythuvien\\xaydungquanlythuvien\\hoadonnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\hoadonnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\hoadonnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\hoadonnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\phieumuon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\phieumuon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\connectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\connectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\traphieumuon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\traphieumuon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\dangxuat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\dangxuat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\dangxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\dangxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\dangxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\dangxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\hoadonmuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\hoadonmuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\hoadonmuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\hoadonmuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\hoadontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\hoadontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\khosach1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\khosach1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\khosach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\khosach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\phieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\phieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\khosach1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\khosach1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\phieutra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\phieutra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\phieutra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\phieutra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\dangxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\dangxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\connectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\connectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\dangxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\dangxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|D:\\bai kiem tra\\Xaydungquanlythuvien\\xaydungquanlythuvien\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14770B44-9CAB-487A-8384-385FAD442EB0}|Xaydungquanlythuvien\\Xaydungquanlythuvien.csproj|solutionrelative:xaydungquanlythuvien\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,87 +122,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 27,
               "Title": "DangNhap.cs",
               "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangNhap.cs",
               "RelativeDocumentMoniker": "Xaydungquanlythuvien\\DangNhap.cs",
               "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangNhap.cs",
               "RelativeToolTip": "Xaydungquanlythuvien\\DangNhap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T03:42:31.192Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Main.cs",
               "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\Main.cs",
               "RelativeDocumentMoniker": "Xaydungquanlythuvien\\Main.cs",
               "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\Main.cs",
               "RelativeToolTip": "Xaydungquanlythuvien\\Main.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAywFsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswIMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T04:26:20.765Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "NhanVien.cs",
               "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\NhanVien.cs",
               "RelativeDocumentMoniker": "Xaydungquanlythuvien\\NhanVien.cs",
               "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\NhanVien.cs",
               "RelativeToolTip": "Xaydungquanlythuvien\\NhanVien.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAwwEAAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwGQAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T15:58:03.636Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "docGia.cs",
               "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\docGia.cs",
               "RelativeDocumentMoniker": "Xaydungquanlythuvien\\docGia.cs",
               "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\docGia.cs",
               "RelativeToolTip": "Xaydungquanlythuvien\\docGia.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAkwDAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T17:20:59.295Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "KhoSach.cs",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\KhoSach.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\KhoSach.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\KhoSach.cs",
-              "RelativeToolTip": "Xaydungquanlythuvien\\KhoSach.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAADwvxkAAABHAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "KhoSach1.cs",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\KhoSach1.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\KhoSach1.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\KhoSach1.cs",
+              "RelativeToolTip": "Xaydungquanlythuvien\\KhoSach1.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAtwK4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T05:22:55.879Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T18:41:33.481Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HoaDonMuon.cs",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\HoaDonMuon.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\HoaDonMuon.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\HoaDonMuon.cs",
-              "RelativeToolTip": "Xaydungquanlythuvien\\HoaDonMuon.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAIwJAAAABIAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "TacGia.cs",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\TacGia.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\TacGia.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\TacGia.cs",
+              "RelativeToolTip": "Xaydungquanlythuvien\\TacGia.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwIwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T08:26:21.355Z",
+              "WhenOpened": "2025-09-17T16:02:14.822Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NhaXuatBan.cs",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\NhaXuatBan.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\NhaXuatBan.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\NhaXuatBan.cs",
+              "RelativeToolTip": "Xaydungquanlythuvien\\NhaXuatBan.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAD4vzMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:06:56.599Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DangXuat.cs",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangXuat.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\DangXuat.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangXuat.cs",
+              "RelativeToolTip": "Xaydungquanlythuvien\\DangXuat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:32:25.212Z",
               "IsPinned": true
             },
             {
@@ -179,147 +234,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Main.Designer.cs",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\Main.Designer.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\Main.Designer.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\Main.Designer.cs",
-              "RelativeToolTip": "Xaydungquanlythuvien\\Main.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T05:50:50.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DangXuat.Designer.cs",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangXuat.Designer.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\DangXuat.Designer.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangXuat.Designer.cs",
-              "RelativeToolTip": "Xaydungquanlythuvien\\DangXuat.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T05:50:07.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TacGia.cs [Design]",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\TacGia.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\TacGia.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\TacGia.cs [Design]",
-              "RelativeToolTip": "Xaydungquanlythuvien\\TacGia.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T21:48:23.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HoaDonTra.cs [Design]",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\HoaDonTra.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\HoaDonTra.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\HoaDonTra.cs [Design]",
-              "RelativeToolTip": "Xaydungquanlythuvien\\HoaDonTra.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T18:14:43.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DangXuat.cs",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangXuat.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\DangXuat.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangXuat.cs",
-              "RelativeToolTip": "Xaydungquanlythuvien\\DangXuat.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T17:32:25.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DangXuat.cs [Design]",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangXuat.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\DangXuat.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangXuat.cs [Design]",
-              "RelativeToolTip": "Xaydungquanlythuvien\\DangXuat.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T17:32:18.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\Program.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\Program.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\Program.cs",
-              "RelativeToolTip": "Xaydungquanlythuvien\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T13:51:18.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HoaDonMuon.cs [Design]",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\HoaDonMuon.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\HoaDonMuon.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\HoaDonMuon.cs [Design]",
-              "RelativeToolTip": "Xaydungquanlythuvien\\HoaDonMuon.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T06:26:11.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "KhoSach.cs [Design]",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\KhoSach.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\KhoSach.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\KhoSach.cs [Design]",
-              "RelativeToolTip": "Xaydungquanlythuvien\\KhoSach.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T05:13:01.152Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "docGia.cs [Design]",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\docGia.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\docGia.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\docGia.cs [Design]",
-              "RelativeToolTip": "Xaydungquanlythuvien\\docGia.cs [Design]",
+              "Title": "PhieuTra.cs",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\PhieuTra.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\PhieuTra.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\PhieuTra.cs",
+              "RelativeToolTip": "Xaydungquanlythuvien\\PhieuTra.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowHcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T17:13:47.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cs [Design]",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\Main.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\Main.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\Main.cs [Design]",
-              "RelativeToolTip": "Xaydungquanlythuvien\\Main.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T17:58:40.352Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-17T22:01:30.458Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "NhanVien.cs [Design]",
-              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\NhanVien.cs",
-              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\NhanVien.cs",
-              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\NhanVien.cs [Design]",
-              "RelativeToolTip": "Xaydungquanlythuvien\\NhanVien.cs [Design]",
+              "Title": "PhieuTra.cs [Design]",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\PhieuTra.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\PhieuTra.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\PhieuTra.cs [Design]",
+              "RelativeToolTip": "Xaydungquanlythuvien\\PhieuTra.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T15:57:58.139Z",
+              "WhenOpened": "2025-09-17T22:01:25.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhieuMuon.cs",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\PhieuMuon.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\PhieuMuon.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\PhieuMuon.cs",
+              "RelativeToolTip": "Xaydungquanlythuvien\\PhieuMuon.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T21:25:39.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhieuMuon.cs [Design]",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\PhieuMuon.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\PhieuMuon.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\PhieuMuon.cs [Design]",
+              "RelativeToolTip": "Xaydungquanlythuvien\\PhieuMuon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T21:25:34.95Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 1,
+              "Title": "TraPhieuMuon.cs",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\TraPhieuMuon.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\TraPhieuMuon.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\TraPhieuMuon.cs",
+              "RelativeToolTip": "Xaydungquanlythuvien\\TraPhieuMuon.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAD4v68AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T21:22:16.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TraPhieuMuon.cs [Design]",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\TraPhieuMuon.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\TraPhieuMuon.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\TraPhieuMuon.cs [Design]",
+              "RelativeToolTip": "Xaydungquanlythuvien\\TraPhieuMuon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T21:21:53.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TraPhieuMuon.Designer.cs",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\TraPhieuMuon.Designer.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\TraPhieuMuon.Designer.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\TraPhieuMuon.Designer.cs",
+              "RelativeToolTip": "Xaydungquanlythuvien\\TraPhieuMuon.Designer.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAADwv5wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T02:15:09.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoaDonNhapHang.cs",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\HoaDonNhapHang.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\HoaDonNhapHang.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\HoaDonNhapHang.cs",
+              "RelativeToolTip": "Xaydungquanlythuvien\\HoaDonNhapHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:10:23.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoaDonNhapHang.cs [Design]",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\HoaDonNhapHang.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\HoaDonNhapHang.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\HoaDonNhapHang.cs [Design]",
+              "RelativeToolTip": "Xaydungquanlythuvien\\HoaDonNhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:57:58.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DangNhap.cs [Design]",
               "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangNhap.cs",
               "RelativeDocumentMoniker": "Xaydungquanlythuvien\\DangNhap.cs",
@@ -330,15 +355,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "PhieuMuon.Designer.cs",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\PhieuMuon.Designer.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\PhieuMuon.Designer.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\PhieuMuon.Designer.cs",
+              "RelativeToolTip": "Xaydungquanlythuvien\\PhieuMuon.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwNkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T02:16:56.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NhaXuatBan.cs [Design]",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\NhaXuatBan.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\NhaXuatBan.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\NhaXuatBan.cs [Design]",
+              "RelativeToolTip": "Xaydungquanlythuvien\\NhaXuatBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:55:14.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhoSach1.cs [Design]",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\KhoSach1.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\KhoSach1.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\KhoSach1.cs [Design]",
+              "RelativeToolTip": "Xaydungquanlythuvien\\KhoSach1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:40:18.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TacGia.cs [Design]",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\TacGia.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\TacGia.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\TacGia.cs [Design]",
+              "RelativeToolTip": "Xaydungquanlythuvien\\TacGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:55:33.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DangXuat.cs [Design]",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangXuat.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\DangXuat.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\DangXuat.cs [Design]",
+              "RelativeToolTip": "Xaydungquanlythuvien\\DangXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:32:18.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "docGia.cs [Design]",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\docGia.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\docGia.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\docGia.cs [Design]",
+              "RelativeToolTip": "Xaydungquanlythuvien\\docGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:13:47.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\Main.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\Main.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\Main.cs [Design]",
+              "RelativeToolTip": "Xaydungquanlythuvien\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:58:40.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\NhanVien.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\NhanVien.cs [Design]",
+              "RelativeToolTip": "Xaydungquanlythuvien\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:57:58.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "connectData.cs",
               "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\connectData.cs",
               "RelativeDocumentMoniker": "Xaydungquanlythuvien\\connectData.cs",
               "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\connectData.cs",
               "RelativeToolTip": "Xaydungquanlythuvien\\connectData.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwA4AAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T04:03:15.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\Program.cs",
+              "RelativeDocumentMoniker": "Xaydungquanlythuvien\\Program.cs",
+              "ToolTip": "D:\\bai kiem tra\\Xaydungquanlythuvien\\Xaydungquanlythuvien\\Program.cs",
+              "RelativeToolTip": "Xaydungquanlythuvien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:51:18.171Z"
             }
           ]
         }

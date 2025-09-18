@@ -12,7 +12,7 @@ namespace Xaydungquanlythuvien
         public SqlConnection conn;
         public void connect()
         {
-            string strCon = @"Data Source=.;Initial Catalog=QUAN_LY_THU_VIEN;Integrated Security=True";
+            string strCon = @"Data Source=.;Initial Catalog=Quan_Ly_Thu_Vien_3;Integrated Security=True";
             try
             {
                 conn = new SqlConnection(strCon);
@@ -44,5 +44,7 @@ namespace Xaydungquanlythuvien
                 return false;
             }
         }
+
+
     }
 }

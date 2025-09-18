@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
+
 namespace Xaydungquanlythuvien
 {
     public partial class Main : Form
@@ -35,7 +36,7 @@ namespace Xaydungquanlythuvien
 
         private void mnuKhoSach_Click(object sender, EventArgs e)
         {
-            KhoSach frm = new KhoSach();
+            KhoSach1 frm = new KhoSach1();
             frm.MdiParent = this;
             frm.FormBorderStyle = FormBorderStyle.None;
             frm.Dock = DockStyle.Fill;
@@ -60,11 +61,7 @@ namespace Xaydungquanlythuvien
 
         private void mnuHoaDonMuon_Click(object sender, EventArgs e)
         {
-            HoaDonMuon frm = new HoaDonMuon();
-            frm.MdiParent = this;
-            frm.FormBorderStyle = FormBorderStyle.None;
-            frm.Dock = DockStyle.Fill;
-            frm.Show();
+            
         }
 
         private void mnuDangXuat_Click(object sender, EventArgs e)
@@ -89,6 +86,54 @@ namespace Xaydungquanlythuvien
             frm.Show();
         }
 
-        
+        private void mnuHoaDonNhanHang_Click(object sender, EventArgs e)
+        {
+            HoaDonNhapHang frm = new HoaDonNhapHang();
+            frm.MdiParent = this;
+            frm.FormBorderStyle = FormBorderStyle.None;
+            frm.Dock = DockStyle.Fill;
+            frm.Show();
+        }
+
+        private void mnuNhaXuatBan_Click(object sender, EventArgs e)
+        {
+            NhaXuatBan frm = new NhaXuatBan();
+            frm.MdiParent = this;
+            frm.FormBorderStyle = FormBorderStyle.None;
+            frm.Dock = DockStyle.Fill;
+            frm.Show();
+        }
+
+        private void mnuPhieuMuon_Click(object sender, EventArgs e)
+        {
+            PhieuMuon frm = new PhieuMuon();
+            frm.MdiParent = this;
+            frm.FormBorderStyle = FormBorderStyle.None;
+            frm.Dock = DockStyle.Fill;
+            frm.Show();
+        }
+
+        private void mnuPhieuTra_Click(object sender, EventArgs e)
+        {
+            PhieuTra frm = new PhieuTra();
+            frm.MdiParent = this;
+            frm.FormBorderStyle = FormBorderStyle.None;
+            frm.Dock = DockStyle.Fill;
+            frm.Show();
+        }
+
+        private void traPhiếuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void mnuTraPhieuMuon_Click(object sender, EventArgs e)
+        {
+            TraPhieuMuon frm = new TraPhieuMuon();
+            frm.MdiParent = this;
+            frm.FormBorderStyle = FormBorderStyle.None;
+            frm.Dock = DockStyle.Fill;
+            frm.Show();
+        }
     }
 }
